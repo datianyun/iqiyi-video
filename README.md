@@ -1,18 +1,10 @@
 video
 =====
-<pre>
 
-   方案一：
 
-     下载源码后，可以直接打开index.html查看，不过需要把jqeury地址调整下。
 
-</pre>
 
-<pre>
-
-   方案二：
-
-      这是个yeoman创建的APP，依据http://yeomanjs.org/搭建好环境，然后依次
+> 这是个yeoman创建的APP，依据http://yeomanjs.org/搭建好环境，然后依次
 
    #  npm install 初始化node依赖的包
 
@@ -22,9 +14,9 @@ video
 
    # grunt serve 
  
-</pre>
 
-h3. 外部引用
+
+
 
 > css引用：
 
