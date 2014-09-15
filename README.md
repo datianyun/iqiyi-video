@@ -45,9 +45,6 @@ video
 > html初始化：
 
 <pre>
-
-    <!-- 这部分内容后期考虑写到组件中--->
-
      <div class="video_container" style="margin:10px 0">
           <div class="video">
                <video id="video" preload="none" width="100%"></video>
@@ -57,7 +54,6 @@ video
                <div class="video-broad"></div>
           </div>
      </div>
-
 </pre>
 
 > 数据初始化：在main.js中
