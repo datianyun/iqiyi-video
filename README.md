@@ -15,8 +15,8 @@ video
    # grunt serve 
  
 
-<img src="http://datianyun.github.io/images/toutiao1.jpg"></img>
-<img src="http://datianyun.github.io/images/toutiao2.jpg"></img>
+<img src="http://datianyun.github.io/images/toutiao1.png"></img>
+<img src="http://datianyun.github.io/images/toutiao2.png"></img>
 
 > css引用：
 
